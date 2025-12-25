@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读。2019年，我毕业于北京工商大学人工智能学院。
+你好，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读。2019年，我毕业于北京工商大学人工智能学院。我的研究兴趣
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究兴趣包括：
@@ -42,7 +42,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`B. Li`, L. Jia, L. Zhang, N. Qi, W. Tang and F. Adachi. Exploiting Large Language Models for Single-Channel Mix Source Separation in Anti-Jamming Wireless Communications. *IEEE Communications Letters*, vol. 30, pp. 422-426, 2026. (JCR:Q2; IF:4.4)  
-[[网页]](10.1109/LCOMM.2025.3637306) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Exploiting_Large_Language_Models_for_Single_channel_Blind_Source_Separation_in_Anti_jamming_Wireless_Communications.pdf) [[下载]](/pdf/Exploiting_Large_Language_Models_for_Single_channel_Blind_Source_Separation_in_Anti_jamming_Wireless_Communications.pdf)
+[[网页]](10.1109/LCOMM.2025.3637306) [[预览]](https://github.com/BLi4ee/BLi4ee.github.io/blob/main/pdf/Exploiting_Large_Language_Models_for_Single_channel_Blind_Source_Separation_in_Anti_jamming_Wireless_Communications.pdf) [[下载]](/pdf/Exploiting_Large_Language_Models_for_Single_channel_Blind_Source_Separation_in_Anti_jamming_Wireless_Communications.pdf)
 
 </div>
 </div>
