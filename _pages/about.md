@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读。2019年，我毕业于北京工商大学人工智能学院。我的研究兴趣
+Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读。2019年，我毕业于北京工商大学人工智能学院。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究兴趣包括：
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 </div>
 
-### 中文
+<!-- ### 中文 -->
 ---
 
 <!-- - 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  

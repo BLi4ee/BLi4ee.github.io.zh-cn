@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Boya Li"
+  name             : "Boya Li(李博雅)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "liberty.in.ee@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
