@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "李博雅"
   avatar           : "images/profile1.png"
-  bio              : "电子科技大学 通信抗干扰全国重点实验室 硕士研究生"
+  bio              : "电子科技大学 <br> 通信抗干扰全国重点实验室 <br> 硕士研究生"
   location         : "Chengdu, China"
   employer         : 
   pubmed           : 
