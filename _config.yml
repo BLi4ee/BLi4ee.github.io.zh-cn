@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Boya Li"
 description              : "Boya Li's Personal Website"
-repository               : "/zh-cn"
+repository               : "BLi4ee.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "李博雅"
-  avatar           : "images/profile1.png"
+  avatar           : "images/profile2.png"
   bio              : "电子科技大学 <br> 通信抗干扰全国重点实验室 <br> 硕士研究生"
   location         : "Chengdu, China"
   employer         : 
