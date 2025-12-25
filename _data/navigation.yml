@@ -4,13 +4,16 @@ main:
     url: "/zh-cn/#about-me"
 
   - title: "教育背景"
-    url: "/zh-cn/#-edu_background"
+    url: "/zh-cn/#-education-background"
+
+  - title: "新闻"
+    url: "/zh-cn/#-news"
 
   - title: "发表"
     url: "/zh-cn/#-publications"
 
   - title: "荣誉奖项"
-    url: "/zh-cn/#-award"
+    url: "/zh-cn/#-awards-and-honors"
 
   - title: "工作实习"
-    url: "/zh-cn/#-internship"
+    url: "/zh-cn/#-internships"
