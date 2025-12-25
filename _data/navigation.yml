@@ -15,5 +15,5 @@ main:
   - title: "荣誉奖项"
     url: "/zh-cn/#-awards-and-honors"
 
-  - title: "工作实习"
-    url: "/zh-cn/#-internships"
+  # - title: "工作实习"
+  #   url: "/zh-cn/#-internships"

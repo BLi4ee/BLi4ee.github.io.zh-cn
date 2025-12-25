@@ -34,9 +34,12 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
  
 
 
-<!-- # 🔥 新闻
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 新闻
+- *2022.11*: 🎉🎉 我开始学习 MIT Strang Gilbert 教授主讲的《线性代数》课程。学习进度：第 21/34 课 [点击观看 Bilibili 视频](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
+- *2025.09*: 🎉🎉 我开始学习由台湾大学李宏毅教授主讲的《生成式人工智能》课程。学习进度：第 11/18 课 [点击观看 Bilibili 视频](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
+
+
+
 
 <span class='anchor' id='-publications'></span>
 
