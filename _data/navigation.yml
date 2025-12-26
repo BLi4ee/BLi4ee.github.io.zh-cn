@@ -17,6 +17,9 @@ main:
   
   - title: "志愿服务"
     url: "/zh-cn/#-volunteer-services"
+      
+  - title: "兴趣爱好"
+    url: "/zh-cn/#-interests-and-hobbies"
 
   # - title: "工作实习"
   #   url: "/zh-cn/#-internships"

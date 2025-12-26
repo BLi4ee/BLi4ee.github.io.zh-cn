@@ -115,12 +115,12 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 
 ## 🎬 电影
 ### 最喜欢的电影
-- 《妇女参政论者》 (Suffragette)
-- 《少年斯派维的奇异旅行》 (The Young and Prodigious T.S. Spivet)
-- 《看不见的客人》 (The Invisible Guest)
-- 《遗愿清单》 (The Bucket List)
-- 《生活多美好》 (It's a Wonderful Life)
-- 《机器人之梦》 (Robot Dreams)
+- 《妇女参政论者》 (2015)
+- 《少年斯派维的奇异旅行》 (2013)
+- 《看不见的客人》 (2016)
+- 《遗愿清单》 (2007)
+- 《生活多美好》 (1946)
+- 《机器人之梦》 (2023)
 
 <!-- <span class='anchor' id='-internships'></span>
 
