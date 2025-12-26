@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='-about-me'></span>
-
 Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕士在读，师从[张蔺](https://scholar.google.com/citations?user=711SenAAAAAJ&hl=zh-CN)副教授。2019年，我毕业于北京工商大学人工智能学院。
 
 我的研究兴趣包括：
@@ -34,7 +33,7 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 - *2019.09 - 2023.06*, <a href="https://www.btbu.edu.cn/"><img class="svg" src="images/BTBU_logo.png" width="20pt"></a> 北京工商大学， 信息工程, 北京, 本科
  
 
-
+<span class='anchor' id='-news'></span>
 # 🔥 新闻
 - *2022.11*: 我开始学习 MIT W. Gilbert Strang 教授主讲的《线性代数》课程。学习进度：第 21/34 课 [点击观看 Bilibili 视频](https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.337.search-card.all.click)
 - *2025.09*: 我开始学习台湾大学李宏毅教授主讲的《生成式人工智能》课程。学习进度：第 11/18 课 [点击观看 Bilibili 视频](https://www.bilibili.com/video/BV1BJ4m1e7g8/?spm_id_from=333.337.search-card.all.click&vd_source=0987e33b378cdb9fa51b5a63beb8fa4f)
