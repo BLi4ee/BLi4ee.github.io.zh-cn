@@ -89,7 +89,7 @@ Hi，我是李博雅，电子科技大学通信抗干扰全国重点实验室硕
 - *2021.12* 获得 中国电信奖学金·飞YOUNG奖
 - *2022.11* 获得 第三十七届全国部分地区大学生物理竞赛 `二等奖`  
 
-<span class='anchor' id='-volunteer-service'></span>
+<span class='anchor' id='-volunteer-services'></span>
 
 # 🔆 志愿服务
 - *2022.03* 北京2022冬奥会和冬残奥志愿服务（服务于国家游泳中心，市场开发）：254小时
